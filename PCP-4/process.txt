@@ -1,0 +1,2 @@
+Looking at the binaries with the following command:
+> r2 -Ad #filename
