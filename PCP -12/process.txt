@@ -1,0 +1,3 @@
+Made use of ROP gadget to find the following:
+-> rdi - 0x04012e3
+-> ret - 0x40101a
